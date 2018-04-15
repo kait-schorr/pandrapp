@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-router-dom": "^4.2.2",
+    "reactstrap": "^5.0.0-beta.3"
+  },
+  "name": "pandrapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kait-schorr/pandrapp.git",
+  "author": "kait-schorr <kaitlynschorr@gmail.com>",
+  "license": "MIT"
+}
